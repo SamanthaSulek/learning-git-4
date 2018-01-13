@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: black;
+	background-size: cover;
+}
+header {
+	height: 150px;
+	text-align: center;
+}
+h1 {
+	padding-top: 35px;
+	color: white;
+}
+
+.verse {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	width: 200px;
+	margin-left: 380px;
+	color: white;
+}
