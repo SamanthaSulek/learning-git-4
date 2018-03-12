@@ -4,6 +4,7 @@
 body {
 	background: blue;
 	background-size: cover;
+	display: -ms-flexbox;
 	display: flex;
 }
 header {

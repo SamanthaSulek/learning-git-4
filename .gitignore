@@ -1,2 +1,64 @@
 .sass-cache
 test.txt
+
+# Logi
+logi
+*.log
+npm-debug.log *
+yarn-debug.log *
+yarn-error.log *
+
+# Dane środowiska wykonawczego
+pids
+* .pid
+*.nasionko
+* .pid.lock
+
+# Katalog oprzyrządowanych bibliotek generowanych przez jscoverage / JSCover
+lib-cov
+
+# Katalog pokrycia używany przez narzędzia takie jak istanbul
+pokrycie
+
+# zasięg testu nyc
+.nyc_output
+
+# Grunt pośrednie (http://gruntjs.com/creating-plugins#storing-task-files)
+.chrząknięcie
+
+# Katalog zależności Bower (https://bower.io/)
+bower_components
+
+# Konfiguracja węzła-waf
+.lock-wscript
+
+# Skompilowane dodatki binarne (https://nodejs.org/api/addons.html)
+build / Release
+
+# Katalogi zależności
+node_modules/
+jspm_pakiety /
+
+# Pliki deklaracji typów maszynowych v1
+typings /
+
+# Opcjonalny katalog pamięci podręcznej npm
+.npm
+
+# Opcjonalna pamięć podręczna eslint
+.eslintcache
+
+# Opcjonalna historia REPL
+.node_repl_history
+
+# Wyjście z "paczki npm"
+* .tgz
+
+# Plik integralności przędzy
+.Jasna integralność
+
+# plik zmiennych środowiskowych dotenv
+.env
+
+# next.js buduje wyjście
+.Kolejny
